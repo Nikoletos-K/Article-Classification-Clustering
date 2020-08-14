@@ -1,4 +1,4 @@
-# WordClouds - Classification - Clustering |  Project 2
+# WordClouds - Classification - Clustering
 ---
 __Language:__ python > 3.0
 
