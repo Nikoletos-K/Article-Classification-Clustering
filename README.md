@@ -1,5 +1,9 @@
-# WordClouds - Classification - Clustering
 ---
+
+# WordClouds - Classification - Clustering
+
+#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Article-Classification-Clustering/blob/master/Project.ipynb) ✔️
+
 __Language:__ python > 3.0
 
 __Data:__ Articles from five different sections (business,entertainment, politics, sport, tech) of an news site.
@@ -24,3 +28,7 @@ Optimizing the q.2 scores.
 - For the clustering we use K-Means (numver of clusters=5)
 - Pre-trained embeddings  (word2vec, glove,fast-text).
 - Compressing the data to 2d with PCA,ICA,SVD
+
+---
+
+© Konstantinos Nikoletos & Myrto Iglezou
