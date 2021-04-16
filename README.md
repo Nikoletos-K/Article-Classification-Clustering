@@ -4,11 +4,11 @@
 
 #### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Article-Classification-Clustering/blob/master/Project.ipynb) ✔️
 
-__Language:__ python > 3.0
+
 
 __Data:__ Articles from five different sections (business,entertainment, politics, sport, tech) of an news site.
 
-This project consists of __2 main queries.__ 
+This project consists of __4 main queries.__ 
 
 ## 1st Query | WordCloud creation
 Given the text from the articles,we are making a text-cleaning and after we create some wordclouds for each category. Most common words can be now depicted.
@@ -37,6 +37,8 @@ Optimizing the Q.2 scores.
 - For the clustering we use K-Means (numver of clusters=5)
 - Pre-trained embeddings  (word2vec, glove, fast-text).
 - Compressing the data to 2 dimnsions with PCA,ICA and SVD
+
+__Language:__ Python
 
 ---
 
