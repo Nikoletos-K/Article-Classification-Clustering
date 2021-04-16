@@ -11,23 +11,32 @@ __Data:__ Articles from five different sections (business,entertainment, politic
 This project consists of __2 main queries.__ 
 
 ## 1st Query | WordCloud creation
-Given the text from the articles,I am making a text-clean and after some wordclouds for each category.Most common words can be now deppicted.
+Given the text from the articles,we are making a text-cleaning and after we create some wordclouds for each category. Most common words can be now depicted.
 
 ## 2nd Query | Classification 
-Working with,
-Classifiers: __Support Vector Machines (with GridSearchCV),Random Forests,Naive Bayes,K-Nearest Neighbor__
-__*KNN implementation included*__
+Working with:
 
-We are using 10-fold Cross Validation and scores: Precision / Recall / F-Measure / Accuracy . Also depicting classifivation using ROC-plots
+- Classifiers: __Support Vector Machines (with GridSearchCV),Random Forests,Naive Bayes,K-Nearest Neighbor__
+- __KNN__:  Custom implementation included
+
+We are using 10-fold Cross Validation and scores: 
+- Precision 
+- Recall  
+- F1-Score  
+- Accuracy
+
+
+__Visualization__
+- ROC plots
 
 ## 3rd Query | Beat the Benchmark
-Optimizing the q.2 scores.
+Optimizing the Q.2 scores.
 
 ## 4th Query | Clustering
 
 - For the clustering we use K-Means (numver of clusters=5)
-- Pre-trained embeddings  (word2vec, glove,fast-text).
-- Compressing the data to 2d with PCA,ICA,SVD
+- Pre-trained embeddings  (word2vec, glove, fast-text).
+- Compressing the data to 2 dimnsions with PCA,ICA and SVD
 
 ---
 
