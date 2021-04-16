@@ -15,7 +15,7 @@ Given the text from the articles,I am making a text-clean and after some wordclo
 
 ## 2nd Query | Classification 
 Working with,
-Classifiers: __Support Vector Machines (with GridSearchCV),Random Forests,Naive Bayes,K-Nearest Neighbor
+Classifiers: __Support Vector Machines (with GridSearchCV),Random Forests,Naive Bayes,K-Nearest Neighbor__
 __*KNN implementation included*__
 
 We are using 10-fold Cross Validation and scores: Precision / Recall / F-Measure / Accuracy . Also depicting classifivation using ROC-plots
