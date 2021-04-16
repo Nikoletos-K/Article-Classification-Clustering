@@ -19,7 +19,7 @@ Working with:
 - Classifiers: __Support Vector Machines (with GridSearchCV),Random Forests,Naive Bayes,K-Nearest Neighbor__
 - __KNN__:  Custom implementation included
 
-We are using 10-fold Cross Validation and scores: 
+We are using 10-fold Cross Validation and metrics: 
 - Precision 
 - Recall  
 - F1-Score  
